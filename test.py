@@ -1,10 +1,3 @@
-# ========================================
-# [] File Name : alexnet.py
-#
-# [] Creation Date : March 2018
-#
-# [] Created By : Ali Gholami (aligholami7596@gmail.com)
-# ========================================
 """
     Implementation of the AlexNet Convolutional Neural Network Architecture
     Using Tensorflow.

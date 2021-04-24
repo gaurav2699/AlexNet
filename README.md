@@ -1,5 +1,3 @@
-In the name of God
-
 # AlexNet
 This repository contains implementation of [AlexNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 (ImageNet Classification with Deep Convolutional Neural Networks) by Tensorflow and the network tested with the
@@ -45,21 +43,11 @@ Test Accuracy = 0.303
 Train Accuracy = 0.408
 Test Accuracy = 0.402
 ```
-
 ...
-
-### Epoch 50
+### Epoch 10
 ```
-Train Accuracy = 0.986
-Test Accuracy = 0.721
-```
-
-...
-
-### Epoch 100
-```
-Final Train Accuracy = 1.000
-Final Test Accuracy = 0.739
+Train Accuracy = 0.751
+Test Accuracy = 0.691
 ```
 
 # Evaluating CIFAR-10 dataset
@@ -77,4 +65,3 @@ python3 ./evaluate.py
 # Links
 * https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf
 * https://www.cs.toronto.edu/~kriz/cifar.html
-* https://github.com/amir-saniyan/AlexNet
